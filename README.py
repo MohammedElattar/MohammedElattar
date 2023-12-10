@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedElattar
 - 👀 I’m Laravel Backend Develpoer
-- 🌱 I’m currently learning apis and Authorization
-- 💞️ I’m looking to collaborate on Full-time job in laravel
+- 🌱 I’m currently working with Laravel framework
+- 💞️ I’m currently working as Backend Developer
 - 📫 How to reach me mohammedattar0100020@gmail.com
 
 <!---
