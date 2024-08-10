@@ -12,14 +12,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmed3id2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed3id2001" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohamed-attar-backend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-eid-568109144" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-attar-backend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed attar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
   </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
@@ -71,10 +70,10 @@
       <br/>
       <a href="hhttps://www.linkedin.com/in/mohamed-attar-backend" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="ahmedeid4601" height="30"/></a>
+         alt="mohamed-attar-backend" height="30"/></a>
       <a href="https://www.facebook.com/Mohamed.Ahmed.Attar" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="ahmedeid" height="30"/></a>
+         alt="mohamed-attar-backend" height="30"/></a>
       <a href="mailto:mohammedattar0100020@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -82,7 +81,7 @@
   <p align="center">
       <a href="https://wa.me/+201006131248" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="ahmedeid" height="30"/></a>
+         alt="mohamedattar" height="30"/></a>
       <br>
     </p>
   </samp>
@@ -96,11 +95,11 @@
 <h2 align="center">About this Account</h2>
  <p align="center">
   <a href="github.com/MohammedElattar" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=ahmedeid46&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     src="https://komarev.com/ghpvc/?username=MohammedElattar&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <p align="center">
-  <a href="https://www.codefactor.io/repository/github/ahmedeid46/egyptian-einvoicing-ereceipt"><img align="center"
-     src="[https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main](https://www.codefactor.io/repository/github/ahmedeid46/egyptian-einvoicing-ereceipt/badge)" height="25"
+  <a href="https://www.codefactor.io/repository/github/MohammedElattar/egyptian-einvoicing-ereceipt"><img align="center"
+     src="[https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main](https://www.codefactor.io/repository/github/MohammedElattar/egyptian-einvoicing-ereceipt/badge)" height="25"
      alt="CodeFactor" /></a>
   
   </p>
@@ -179,5 +178,5 @@
   <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedeid46&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MohammedElattar&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
