@@ -4,9 +4,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/MohammedElattar?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/MohammedElattar?style=social)
 
-- 🔭 I’m currently working on **Doctor Code**
+- 🔭 I’m currently working in **Doctor Code**
 
-- 🌱 I’m currently learning **Design Patterns and Devops**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **mohammedattar0100020@gmail.com**
 
