@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **Wadjet**
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **Elixir**
 
 - 📫 How to reach me **mohammedattar0100020@gmail.com**
 
